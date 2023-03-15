@@ -1,10 +1,10 @@
 [
   {
-    "package": "autoshiny",
+    "package": "eurodata",
     "oncran": true
   },
   {
-    "package": "eurodata",
+    "package": "autoshiny",
     "oncran": true
   }
 ]
